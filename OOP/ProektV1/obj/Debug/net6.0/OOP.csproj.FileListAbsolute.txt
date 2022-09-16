@@ -1,0 +1,15 @@
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\bin\Debug\net6.0\OOP.exe
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\bin\Debug\net6.0\OOP.deps.json
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\bin\Debug\net6.0\OOP.runtimeconfig.json
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\bin\Debug\net6.0\OOP.dll
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\bin\Debug\net6.0\OOP.pdb
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.dll
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\refint\OOP.dll
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.pdb
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+d:\Users\PC-GGoranov\Downloads\OOP-tu-main v2\OOP-tu-main\OOP\ProektV1\obj\Debug\net6.0\ref\OOP.dll

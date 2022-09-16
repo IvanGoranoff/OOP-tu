@@ -1,0 +1,15 @@
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\bin\Debug\net6.0\ProektV1.exe
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\bin\Debug\net6.0\ProektV1.deps.json
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\bin\Debug\net6.0\ProektV1.runtimeconfig.json
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\bin\Debug\net6.0\ProektV1.dll
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\bin\Debug\net6.0\ProektV1.pdb
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.csproj.AssemblyReference.cache
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.AssemblyInfoInputs.cache
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.AssemblyInfo.cs
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.csproj.CoreCompileInputs.cache
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.dll
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\refint\ProektV1.dll
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.pdb
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ProektV1.genruntimeconfig.cache
+C:\Users\ivan.goranov\source\repos\ProektV1\ProektV1\obj\Debug\net6.0\ref\ProektV1.dll
